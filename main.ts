@@ -1,20 +1,20 @@
-function e () {
-	
-}
-function c () {
-	
-}
-function f () {
-	
+function a () {
+	return "a"
 }
 function b () {
-	
+    return "b"
 }
-function a () {
-	
+function c () {
+    return "c"
 }
 function d () {
-	
+    return "d"
+}
+function e () {
+    return "e"
+}
+function f () {
+    return "f"
 }
 basic.forever(function () {
 	
