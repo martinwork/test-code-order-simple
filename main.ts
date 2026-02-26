@@ -1,19 +1,19 @@
-function a () {
-	
-}
-function b () {
+function e () {
 	
 }
 function c () {
 	
 }
-function d () {
-	
-}
-function e () {
-	
-}
 function f () {
+	
+}
+function b () {
+	
+}
+function a () {
+	
+}
+function d () {
 	
 }
 basic.forever(function () {
